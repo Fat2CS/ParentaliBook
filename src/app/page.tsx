@@ -146,7 +146,7 @@ export default function Home() {
                   href="#"
                   className="text-sm font-semibold leading-6 text-gray-900"
                 >
-                  Nous nous engageons pour votre sérennité{" "}
+                  Nous nous engageons pour votre sérennité
                   <span aria-hidden="true">→</span>
                 </a>
               </div>
