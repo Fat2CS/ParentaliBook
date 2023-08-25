@@ -122,8 +122,8 @@ export default function Home() {
           />
         </div>
         <div className="py-24 sm:py-32 lg:pb-40">
-          <div className="mx-auto max-w-7xl px-6 lg:px-8">
-            <div className="mx-auto max-w-2xl text-center">
+          <div className="mx-auto max-w-6xl px-6 lg:px-8">
+            <div className="mx-auto max-w-3l text-center">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
                 Votre destination privilégiée pour tout ce qui concerne la
                 parentalité.
@@ -154,7 +154,7 @@ export default function Home() {
             <div className="mt-16 flow-root sm:mt-24">
               <div className="relative -m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
                 <img
-                  src="/bookstore2.jpg"
+                  src="/library.png"
                   alt="App screenshot"
                   className="rounded-md shadow-2xl ring-1 ring-gray-900/10"
                 />
