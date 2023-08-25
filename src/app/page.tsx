@@ -51,8 +51,7 @@ export default function Home() {
               href="#"
               className="text-sm font-semibold leading-6 text-gray-900"
             >
-              {/* Log in <span aria-hidden="true">&rarr;</span> */}
-              {/* Log in <span aria-hidden="true">&rsquo;</span> */}
+              Log in <span aria-hidden="true"></span>
             </a>
           </div>
         </nav>
