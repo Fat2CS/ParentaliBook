@@ -1,5 +1,7 @@
 # Parentabook chat - a full-stack customer support chatbot
 
+demo = https://curious-creponne-4f442d.netlify.app/
+
 ## Features
 
 - Real-time streamed chatbot responses
@@ -31,7 +33,3 @@ If you have any feedback, please reach out to me at admin@wordful.ai
 [MIT](https://choosealicense.com/licenses/mit/)
 
 # ParentaBook
-
-# ParentaliBook
-
-# ParentaliBook
