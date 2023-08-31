@@ -147,7 +147,7 @@ export default function Home() {
                   className="text-sm font-semibold leading-6 text-gray-900"
                 >
                   Nous nous engageons pour votre sérennité
-                  <span aria-hidden="true">→</span>
+                  <span aria-hidden="true">test</span>
                 </a>
               </div>
             </div>
