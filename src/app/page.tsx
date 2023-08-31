@@ -3,6 +3,7 @@
 import { Dialog } from "@headlessui/react";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
+import Image from "next/image";
 
 const navigation = [
   { name: "Petite enfance", href: "#" },
@@ -23,7 +24,13 @@ export default function Home() {
           <div className="flex lg:flex-1">
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">Your Company</span>
-              <img className="h-8 w-auto" src="/book.png" alt="" />
+              <Image
+                className="h-8 w-auto"
+                src="/book.png"
+                alt=""
+                width={15}
+                height={15}
+              />
             </a>
           </div>
           <div className="flex lg:hidden">
@@ -51,7 +58,7 @@ export default function Home() {
               href="#"
               className="text-sm font-semibold leading-6 text-gray-900"
             >
-              Log in <span aria-hidden="true"></span>
+              Log in <span aria-hidden="true">test</span>
             </a>
           </div>
         </nav>
@@ -66,10 +73,12 @@ export default function Home() {
             <div className="flex items-center justify-between">
               <a href="#" className="-m-1.5 p-1.5">
                 <span className="sr-only">Your Company</span>
-                <img
+                <Image
                   className="h-8 w-auto"
                   src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
                   alt=""
+                  width={10}
+                  height={15}
                 />
               </a>
               <button
@@ -131,7 +140,7 @@ export default function Home() {
               <p className="mt-6 text-lg leading-8 text-gray-600">
                 ParentaBook est une petite librairie spécialisée dans la
                 parentalité et le bien-être des parents. notre librairie
-                spécialisée vous ouvre les portes d'une mine de
+                spécialisée vous ouvre les portes d une mine de
                 connaissances.Retrouvez-nous ici à Paris ou commandez en ligne à
                 tout moment.
               </p>
@@ -147,16 +156,18 @@ export default function Home() {
                   className="text-sm font-semibold leading-6 text-gray-900"
                 >
                   Nous nous engageons pour votre sérennité
-                  <span aria-hidden="true">test</span>
+                  {/* <span aria-hidden="true">test</span> */}
                 </a>
               </div>
             </div>
             <div className="mt-16 flow-root sm:mt-24">
               <div className="relative -m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
-                <img
+                <Image
                   src="/library.png"
                   alt="App screenshot"
                   className="rounded-md shadow-2xl ring-1 ring-gray-900/10"
+                  width={1344}
+                  height={896}
                 />
               </div>
             </div>
