@@ -1,6 +1,6 @@
 # Parentabook chat - a full-stack customer support chatbot
 
-demo = https://curious-creponne-4f442d.netlify.app/
+<img= "https://drive.google.com/file/d/1oa1BuyeZGWLldr5NCy8d2fS1C8BQvSbw/view?usp=drive_link"/>
 
 ## Features
 
