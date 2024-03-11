@@ -1,6 +1,6 @@
 # Parentabook chat - a full-stack customer support chatbot
 
-<img src="https://www.hebergeur-image.com/][IMG]https://www.hebergeur-image.com/upload/91.175.132.118-65eef24d1ebae.png" width=1200 height=1200/>
+<img src="https://www.hebergeur-image.com/upload/91.175.132.118-65eef24d1ebae.png" width=1200 height=1200/>
 
 ## Features
 
