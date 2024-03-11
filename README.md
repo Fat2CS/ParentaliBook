@@ -1,6 +1,6 @@
 # Parentabook chat - a full-stack customer support chatbot
 
-<img= "https://drive.google.com/file/d/1oa1BuyeZGWLldr5NCy8d2fS1C8BQvSbw/view?usp=drive_link"/>
+<img src=https://drive.google.com/file/d/1oa1BuyeZGWLldr5NCy8d2fS1C8BQvSbw/view?usp=drive_link/>
 
 ## Features
 
